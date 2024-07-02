@@ -1,0 +1,7 @@
+The host device is device -1.
+There are 2 target device(s).
+The default device is device #0.
+Executed from on default target device.
+Executed from on target device #0.
+Executed from on target device #1.
+The default device is device #1.
